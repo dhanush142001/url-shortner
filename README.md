@@ -1,2 +1,2 @@
 # url-shortner
-A url shorter using angular and flask
+A url shorter using and flask
